@@ -1,0 +1,10 @@
+{
+  "local": {
+    "Api_Endpoint": "http://localhost:4201",
+    "Authenticate_Replace": "4200|4201"
+  },
+  "prod": {
+    "Api_Endpoint": "https://rowney-gardens.herokuapp.com",
+    "Authenticate_Replace": "https://rowneygardens.co.uk/|https://rowney-gardens.herokuapp.com/"
+  }
+}
